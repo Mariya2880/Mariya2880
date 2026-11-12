@@ -1,6 +1,6 @@
 # Hi, I'm Mariya 👋
 
-**QA Automation Engineer** in Berlin, testing a FinTech SaaS platform.
+**QA Automation Engineer** in Berlin,
 I build test automation that teams can trust, and I make the QA go/no-go call on releases.
 
 ### What I do
